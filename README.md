@@ -17,11 +17,11 @@ This course is designed for students with a basic background in machine learning
 | 2       | Linear Models and Training Loops |
 | 3       | Feedforward Neural Networks (FNN) |
 | 4       | Custom Networks using `nn.Module` |
-| 5       | Convolutional Neural Networks (CNNs) |
-| 6       | Introduction to Recurrent Neural Networks (RNNs) |
-| 7       | Attention Mechanisms and Transformers |
-| 8       | Autoencoders and Representation Learning |
-| 9       | Generative Adversarial Networks (GANs) |
+| 5       | [Convolutional Neural Networks (CNNs)](https://github.com/haghbinh/DL-course/tree/main/My%20Notebook/2_CNN) |
+| 6       | [Introduction to Recurrent Neural Networks (RNNs)](https://github.com/haghbinh/DL-course/tree/main/My%20Notebook/3_RNN) |
+| 7       | [Attention Mechanisms and Transformers](https://github.com/haghbinh/DL-course/tree/main/My%20Notebook/5_Transformers) |
+| 8       | [Autoencoders and Representation Learning](https://github.com/haghbinh/DL-course/tree/main/My%20Notebook/7_Autoencoders) |
+| 9       | [Generative Adversarial Networks (GANs)](https://github.com/haghbinh/DL-course/tree/main/My%20Notebook/6_GAN) |
 | 10      | Advanced Topics and Real-World Applications |
 
 ---
@@ -50,7 +50,7 @@ Try the exercises provided in each notebook.
 Assistant Professor of Statistics
 Faculty of Intelligent Systems Engineering and Data Science
 Persian Gulf University – Bushehr, Iran
-📧 haghbin@pgu.ac.ir
+📧 haghbin@pgu.ac.ir 
 🌐 haghbinh.github.io
 
 ## 📌 License
@@ -58,3 +58,5 @@ Use it freely for educational and non-commercial purposes.
 
 ## 🙌 Acknowledgments
 Thanks to students and colleagues who contribute to discussions, improvements, and questions!
+
+
